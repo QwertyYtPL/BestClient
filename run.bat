@@ -1,0 +1,1 @@
+%~dp0\zulu-17-jre\bin\java.exe -Djava.library.path=%~dp0\natives -jar %~dp0\BestClient.jar
